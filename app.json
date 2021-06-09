@@ -1,0 +1,11 @@
+{
+    "name": "btb_xmr",
+    "description": "Deploy btb_xmr on Heroku.",
+    "keywords": ["btb_xmr"],
+    "env": {
+      
+    },
+    "website": "",
+    "repository": "https://github.com/721766515/haha",
+    "stack": "container"
+}
